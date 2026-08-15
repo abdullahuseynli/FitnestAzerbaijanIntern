@@ -19,9 +19,7 @@ Fitnest Azerbaijan is a modern Android mobile application built using **Jetpack 
 
 | Light Mode (Main) | Light Mode (Profile) | Dark Mode (Main) | Dark Mode (Profile) |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/abdullahuseynli/FitnestAzerbaijanIntern/main/screenshots/home_light.png" width="200"/> | <img src="https://raw.githubusercontent.com/abdullahuseynli/FitnestAzerbaijanIntern/main/screenshots/profile_light.png" width="200"/> | <img src="https://raw.githubusercontent.com/abdullahuseynli/FitnestAzerbaijanIntern/main/screenshots/home_dark.png" width="200"/> | <img src="https://raw.githubusercontent.com/abdullahuseynli/FitnestAzerbaijanIntern/main/screenshots/profile_dark.png" width="200"/> |
-
-*(Note: Add your screenshot images to a `screenshots` folder in your repository to display them here)*
+| <img src="screenshots/home_light.png" width="200"/> | <img src="screenshots/profile_light.png" width="200"/> | <img src="screenshots/home_dark.png" width="200"/> | <img src="screenshots/profile_dark.png" width="200"/> |
 
 ---
 
